@@ -197,7 +197,7 @@ def dir_create(user_path):
 
 
 # Pick from a list of suggested path locations for setting up necessary folders
-# TODO: comment and make style/best practices edits
+# TODO: make the style/best practices better
 def user_setup(user_path = None):
     '''Use this function to have the user specify the desired path to create ERCOT Data folders
     
